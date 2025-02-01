@@ -1,0 +1,22 @@
+Read the transcript in @transcript.txt and write the output to @summary.md. Use @summary.md as an output example. 
+
+Can you generate a summary of a city council meeting for Beacon, NY from this transcript? Have headings for each distinct topic and discuss what the topic being discussed is and its goals, what the concerns / problems raised about it are, potential solutions and outline what the next steps will be.
+
+Some things to be able to spell (this is coming from a transcript that might be incorrect) Molly Rhodes, Jeffrey Domanski, Pam Wetherbee, George Mansfield, Amber Grant, Paloma Wake
+
+The agenda items for this meeting are:
+
+1. Swearing in of George Mansfield as Ward Four City Councilmember
+Proposed Local Laws Concerning Property Tax Exemptions for Senior Citizens and Disabled
+People with Limited Income
+3. Appointment of Derek Sherman to the Position of Police Officer
+4. Appointment of Ryan Cross to the Position of Police Officer
+5. Appointment of Sergei Krasikov to the Conservation Advisory Committee
+6. Appointment of Eleanor Peck to the Conservation Advisory Committee
+7. Appointment of Phillip Stamatis to the Conservation Advisory Committee
+8. Appointment of Justine Bienkowski to the Conservation Advisory Committee
+9. Appointment of James Burton to the Conservation Advisory Committee
+10. 2025 Community Development Block Grant Program
+11. Water Meter Upgrade Project Update
+
+We want to have a section in this summary for each item in the agenda packet. You can use the agenda packet as an additional source of information when summarizing sections. Put the timestamps in the header of the summary for each item. 
