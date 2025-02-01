@@ -1,0 +1,10 @@
+
+Read the transcript in @summary.md and write the output to @transcript.txt 
+
+Can you generate a summary of a city council meeting for Beacon, NY from this transcript? This particular meeting is a workshop to discuss through current initiatives that are being considered. The context is the summary will be posted to a community board so that people who don't follow city government can quickly catch up on what is being discussed at city council meetings. Have headings for each distinct topic and discuss what the topic being discussed is and its goals, what the concerns / problems raised about it are, potential solutions and outline what the next steps will be.
+
+Some things to be able to spell (this is coming from a transcript that might be incorrect) Molly Rhodes, Jeffrey Domanski, Pam Wetherbee, George Mansfield, Amber Grant, Paloma Wake
+
+Additionally, look at the agenda packet in @https://d3n9y02raazwpg.cloudfront.net/cityofbeacon/4ff1f04e-cf89-11ef-a9e2-005056a89546-5a491b37-4b6f-4e71-ab5b-6a9d1fff4844-1738002362.pdf 
+
+We want to have a section in this summary for each item in the agenda packet. You can use the agenda packet as an additional source of information when summarizing sections. 
