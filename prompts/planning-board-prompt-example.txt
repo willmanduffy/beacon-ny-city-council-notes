@@ -1,0 +1,18 @@
+Can you read the entire @transcript.txt and output a summary to @summary.md 
+
+Can you generate a summary of a planning board meeting for Beacon, NY from this transcript? The context is the summary will be posted to a community board so that people who don't follow city government can quickly catch up on what is being discussed at city council meetings. Have headings for each distinct topic and discuss what the topic being discussed is and its goals, what the concerns / problems raised about it are, potential solutions and outline what the next steps will be. Include timestamps for each header title in the summary.
+
+The agenda items are
+
+Continue review of application for Site Plan and Subdivision Approval, Mixed-Use Commercial
+and Residential, 45 Beekman Street, High Street, and High Street, submitted by Beekman
+Arts Center LLC and Bay Ridge Studios LLC.
+Continue review of applications for Site Plan Approval and Subdivision Approval, Mixed-Use
+Commercial Use and Residential, 420-430 Fishkill Avenue, submitted by DK HHH Realty,
+LLC.
+Continue review of application for Site Plan Approval, Mixed-Use Commercial and Residential,
+291 Main Street, submitted by Telephone Building Beacon, LLC.
+Continue review of application for Site Plan Approval, 14 N Cedar Street, 4-unit multi-family
+dwelling, submitted by Cervone-Perrucci Realty.
+
+We want to have a section in this summary for each item in the agenda packet. You can use the agenda packet as an additional source of information when summarizing sections. 
