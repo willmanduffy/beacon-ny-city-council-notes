@@ -1,6 +1,29 @@
-The members of the board are:
+Read the transcript in @transcript.txt  and write the output to@summary.md . Use @summary.md  as an output example. 
+
+Can you generate a summary of a Zoning Board of Approval meeting for Beacon, NY from this transcript? Have headings for each distinct topic and discuss what the topic being discussed is and its goals, what the concerns / problems raised about it are, potential solutions and outline what the next steps will be. This will be read by people who did not attend the meeting and do not have context on the topics being discussed. Our goal is for them to understand this document
+
+Some things to be able to spell (this is coming from a transcript that might be incorrect) 
+
 Jordan Haug, Board Chair
 Judith Smith
 Elaine Ciaccio
 Montos Vakirtzis
 Stowe Boyd
+
+The agenda items for this meeting are:
+
+Regular Meeting
+
+1. Review and hold public hearing on application submitted by Lendita Mavraj, 6 Cliff Street, Tax
+Grid No. 30-5954-27-799935, in the T Zoning District, to allow the primary building on the
+property to be converted from a one-family residence to a two-family residence, which
+equires relief from the following: Section 223-17.D. to allow for a minimum lot area per
+dwelling unit of 1,631 sq ft (2,500 sq ft required). And, to allow the construction of an addition
+and deck to the primary building, which requires relief from the following: Section 223-17.D. to
+allow for a 6 ft rear yard setback (20 ft required).
+Miscellaneous Business
+
+1. Consider a request for a six (6) month extension of a variance approval previously granted for
+property at 11 Highland Place (Tax Grid No. 6054-31-327768), submitted by Jodi McCredo.
+
+We want to have a section in this summary for each item in the agenda packet. You can use the agenda packet as an additional source of information when summarizing sections. Put the timestamps in the header of the summary for each item. 
